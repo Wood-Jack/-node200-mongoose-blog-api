@@ -12,7 +12,9 @@ const fakeUser = {
     social: {
         twitter: '@johnsmith',
         linkedIn: 'https://www.linkedin.com/in/johnsmith',
-        facebook: 'john.smith'
+        facebook: 'john.smith',
+        email: 'john.smith@gmail.com',
+        lastName: 'Smith'
     }
 };
 

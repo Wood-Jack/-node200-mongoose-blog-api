@@ -16,7 +16,9 @@ describe('User Model', () => {
             social: {
                 twitter: 'string',
                 linkedIn: 'string',
-                facebook: 'string'
+                facebook: 'string',
+                lastName: 'string',
+                email: 'string',
             },
             blogs: Array
         };
